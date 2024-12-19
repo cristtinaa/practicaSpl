@@ -12,7 +12,7 @@ drop table if exists hostessa;
 drop table if exists pilot;
 drop table if exists avio;
 drop table if exists passatger;
-drop table if exists aeropot;
+drop table if exists aeroport;
 drop table if exists mostrador;
 drop table if exists vol;
 drop table if exists volar;
