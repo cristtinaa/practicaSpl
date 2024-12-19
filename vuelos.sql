@@ -81,7 +81,7 @@ create table mostrador(
 create table vol(
     codi varchar(9) not null,
     aeroport_desti varchar(4),
-    data not null,
+    data smallint not null,
     durada smallint not null,
     aeroport_origen varchar (4),
     avio varchar (30) not null,
